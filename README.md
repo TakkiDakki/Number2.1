@@ -21,4 +21,5 @@
 * OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.10+9)
 * OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.10+9, mixed mode)
 
-![фото](https://savepice.ru/full/2021/3/18/c9ebbde7ee09620977f536a680d3f958-full.png.html)
+[issues](https://github.com/TakkiDakki/Number2.1/issues/1)
+
